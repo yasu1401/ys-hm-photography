@@ -1,0 +1,183 @@
+{
+  "title": "Y's HM Photography",
+  "tagline": "heartwarming photo　心あたたまる写真",
+  "slideshowSeconds": 6,
+  "slides": [
+    {
+      "src": "assets/photos/flashgallery002-img000.jpg",
+      "thumb": "assets/thumbs/flashgallery002-img000.jpg",
+      "width": 600,
+      "height": 400,
+      "alt": "Kids",
+      "caption": "Kids"
+    },
+    {
+      "src": "assets/photos/flashgallery002-img001.jpg",
+      "thumb": "assets/thumbs/flashgallery002-img001.jpg",
+      "width": 600,
+      "height": 399,
+      "alt": "Nature",
+      "caption": "Nature"
+    },
+    {
+      "src": "assets/photos/flashgallery002-img002.jpg",
+      "thumb": "assets/thumbs/flashgallery002-img002.jpg",
+      "width": 600,
+      "height": 400,
+      "alt": "Hawaii",
+      "caption": "Hawaii"
+    },
+    {
+      "src": "assets/photos/flashgallery002-img003.jpg",
+      "thumb": "assets/thumbs/flashgallery002-img003.jpg",
+      "width": 600,
+      "height": 399,
+      "alt": "Black and White",
+      "caption": "Black and White"
+    },
+    {
+      "src": "assets/photos/flashgallery002-img004.jpg",
+      "thumb": "assets/thumbs/flashgallery002-img004.jpg",
+      "width": 600,
+      "height": 400,
+      "alt": "Portrait",
+      "caption": "Portrait"
+    },
+    {
+      "src": "assets/photos/flashgallery002-img005.jpg",
+      "thumb": "assets/thumbs/flashgallery002-img005.jpg",
+      "width": 600,
+      "height": 400,
+      "alt": "Wedding",
+      "caption": "Wedding"
+    },
+    {
+      "src": "assets/photos/flashgallery002-img006.jpg",
+      "thumb": "assets/thumbs/flashgallery002-img006.jpg",
+      "width": 600,
+      "height": 400,
+      "alt": "Wedding",
+      "caption": "Wedding"
+    },
+    {
+      "src": "assets/photos/flashgallery002-img007.jpg",
+      "thumb": "assets/thumbs/flashgallery002-img007.jpg",
+      "width": 450,
+      "height": 450,
+      "alt": "Cake",
+      "caption": "Cake"
+    },
+    {
+      "src": "assets/photos/flashgallery002-img008.jpg",
+      "thumb": "assets/thumbs/flashgallery002-img008.jpg",
+      "width": 600,
+      "height": 400,
+      "alt": "Fammily",
+      "caption": "Fammily"
+    },
+    {
+      "src": "assets/photos/flashgallery002-img009.jpg",
+      "thumb": "assets/thumbs/flashgallery002-img009.jpg",
+      "width": 600,
+      "height": 400,
+      "alt": "Snap",
+      "caption": "Snap"
+    },
+    {
+      "src": "assets/photos/flashgallery002-img010.jpg",
+      "thumb": "assets/thumbs/flashgallery002-img010.jpg",
+      "width": 600,
+      "height": 400,
+      "alt": "Hanabi",
+      "caption": "Hanabi"
+    },
+    {
+      "src": "assets/photos/flashgallery002-img011.jpg",
+      "thumb": "assets/thumbs/flashgallery002-img011.jpg",
+      "width": 600,
+      "height": 399,
+      "alt": "KASH",
+      "caption": "KASH"
+    },
+    {
+      "src": "assets/photos/flashgallery002-img012.jpg",
+      "thumb": "assets/thumbs/flashgallery002-img012.jpg",
+      "width": 600,
+      "height": 399,
+      "alt": "Matsuri",
+      "caption": "Matsuri"
+    },
+    {
+      "src": "assets/photos/flashgallery002-img013.jpg",
+      "thumb": "assets/thumbs/flashgallery002-img013.jpg",
+      "width": 600,
+      "height": 400,
+      "alt": "Kids",
+      "caption": "Kids"
+    },
+    {
+      "src": "assets/photos/flashgallery002-img014.jpg",
+      "thumb": "assets/thumbs/flashgallery002-img014.jpg",
+      "width": 600,
+      "height": 399,
+      "alt": "Wedding",
+      "caption": "Wedding"
+    },
+    {
+      "src": "assets/photos/flashgallery002-img015.jpg",
+      "thumb": "assets/thumbs/flashgallery002-img015.jpg",
+      "width": 600,
+      "height": 400,
+      "alt": "Wedding",
+      "caption": "Wedding"
+    },
+    {
+      "src": "assets/photos/flashgallery002-img016.jpg",
+      "thumb": "assets/thumbs/flashgallery002-img016.jpg",
+      "width": 600,
+      "height": 399,
+      "alt": "Model",
+      "caption": "Model"
+    },
+    {
+      "src": "assets/photos/flashgallery002-img017.jpg",
+      "thumb": "assets/thumbs/flashgallery002-img017.jpg",
+      "width": 600,
+      "height": 399,
+      "alt": "Beach",
+      "caption": "Beach"
+    },
+    {
+      "src": "assets/photos/flashgallery002-img018.jpg",
+      "thumb": "assets/thumbs/flashgallery002-img018.jpg",
+      "width": 600,
+      "height": 400,
+      "alt": "Peat",
+      "caption": "Peat"
+    },
+    {
+      "src": "assets/photos/flashgallery002-img019.jpg",
+      "thumb": "assets/thumbs/flashgallery002-img019.jpg",
+      "width": 600,
+      "height": 399,
+      "alt": "Model",
+      "caption": "Model"
+    },
+    {
+      "src": "assets/photos/flashgallery002-img020.jpg",
+      "thumb": "assets/thumbs/flashgallery002-img020.jpg",
+      "width": 600,
+      "height": 400,
+      "alt": "Y's HM Photography",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/flashgallery002-img021.jpg",
+      "thumb": "assets/thumbs/flashgallery002-img021.jpg",
+      "width": 600,
+      "height": 400,
+      "alt": "Y's HM Photography",
+      "caption": ""
+    }
+  ]
+}

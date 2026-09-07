@@ -1,0 +1,69 @@
+{
+  "title": "名古屋の夜景",
+  "photos": [
+    {
+      "src": "assets/photos/img036.jpg",
+      "thumb": "assets/thumbs/img036.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "名古屋の夜景 — 1",
+      "caption": "測光モード：\nISO感度：400\n絞り：4.56\nシャッター速度：2.59 秒"
+    },
+    {
+      "src": "assets/photos/img1164.jpg",
+      "thumb": "assets/thumbs/img1164.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "名古屋の夜景 — 2",
+      "caption": "測光モード：\nISO感度：400\n絞り：4.56\nシャッター速度：3.22 秒"
+    },
+    {
+      "src": "assets/photos/img1167.jpg",
+      "thumb": "assets/thumbs/img1167.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "名古屋の夜景 — 3",
+      "caption": "測光モード：\nISO感度：400\n絞り：11.31\nシャッター速度：10.37 秒"
+    },
+    {
+      "src": "assets/photos/img1170.jpg",
+      "thumb": "assets/thumbs/img1170.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "名古屋の夜景 — 4",
+      "caption": "測光モード：\nISO感度：400\n絞り：12.88\nシャッター速度：6.17 秒"
+    },
+    {
+      "src": "assets/photos/img1173.jpg",
+      "thumb": "assets/thumbs/img1173.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "名古屋の夜景 — 5",
+      "caption": "測光モード：\nISO感度：400\n絞り：6.44\nシャッター速度：5.19 秒"
+    },
+    {
+      "src": "assets/photos/img1176.jpg",
+      "thumb": "assets/thumbs/img1176.jpg",
+      "width": 800,
+      "height": 1200,
+      "alt": "名古屋の夜景 — 6",
+      "caption": "測光モード：\nISO感度：400\n絞り：6.44\nシャッター速度：6.17 秒"
+    },
+    {
+      "src": "assets/photos/img1179.jpg",
+      "thumb": "assets/thumbs/img1179.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "名古屋の夜景 — 7",
+      "caption": "測光モード：\nISO感度：200\n絞り：8.00\nシャッター速度：3.22 秒"
+    },
+    {
+      "src": "assets/photos/img1182.jpg",
+      "thumb": "assets/thumbs/img1182.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "名古屋の夜景 — 8",
+      "caption": "測光モード：\nISO感度：200\n絞り：8.00\nシャッター速度：10.37 秒"
+    }
+  ]
+}

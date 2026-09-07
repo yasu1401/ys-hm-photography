@@ -1,0 +1,149 @@
+{
+  "title": "Model-1",
+  "photos": [
+    {
+      "src": "assets/photos/img1121.jpg",
+      "thumb": "assets/thumbs/img1121.jpg",
+      "width": 800,
+      "height": 1200,
+      "alt": "Model-1 — 1",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img1127.jpg",
+      "thumb": "assets/thumbs/img1127.jpg",
+      "width": 800,
+      "height": 1200,
+      "alt": "Model-1 — 2",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img1130.jpg",
+      "thumb": "assets/thumbs/img1130.jpg",
+      "width": 800,
+      "height": 1200,
+      "alt": "Model-1 — 3",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img1753.jpg",
+      "thumb": "assets/thumbs/img1753.jpg",
+      "width": 800,
+      "height": 1200,
+      "alt": "Model-1 — 4",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img1756.jpg",
+      "thumb": "assets/thumbs/img1756.jpg",
+      "width": 800,
+      "height": 1200,
+      "alt": "Model-1 — 5",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img1759.jpg",
+      "thumb": "assets/thumbs/img1759.jpg",
+      "width": 800,
+      "height": 1200,
+      "alt": "Model-1 — 6",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img1762.jpg",
+      "thumb": "assets/thumbs/img1762.jpg",
+      "width": 1158,
+      "height": 800,
+      "alt": "Model-1 — 7",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img1765.jpg",
+      "thumb": "assets/thumbs/img1765.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "Model-1 — 8",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img1768.jpg",
+      "thumb": "assets/thumbs/img1768.jpg",
+      "width": 800,
+      "height": 1200,
+      "alt": "Model-1 — 9",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img1771.jpg",
+      "thumb": "assets/thumbs/img1771.jpg",
+      "width": 800,
+      "height": 1200,
+      "alt": "Model-1 — 10",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img1774.jpg",
+      "thumb": "assets/thumbs/img1774.jpg",
+      "width": 800,
+      "height": 987,
+      "alt": "Model-1 — 11",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img1777.jpg",
+      "thumb": "assets/thumbs/img1777.jpg",
+      "width": 800,
+      "height": 1200,
+      "alt": "Model-1 — 12",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img1780.jpg",
+      "thumb": "assets/thumbs/img1780.jpg",
+      "width": 800,
+      "height": 1200,
+      "alt": "Model-1 — 13",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img1783.jpg",
+      "thumb": "assets/thumbs/img1783.jpg",
+      "width": 800,
+      "height": 1200,
+      "alt": "Model-1 — 14",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img1786.jpg",
+      "thumb": "assets/thumbs/img1786.jpg",
+      "width": 800,
+      "height": 1200,
+      "alt": "Model-1 — 15",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img1789.jpg",
+      "thumb": "assets/thumbs/img1789.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "Model-1 — 16",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img1792.jpg",
+      "thumb": "assets/thumbs/img1792.jpg",
+      "width": 800,
+      "height": 1200,
+      "alt": "Model-1 — 17",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img1795.jpg",
+      "thumb": "assets/thumbs/img1795.jpg",
+      "width": 800,
+      "height": 1200,
+      "alt": "Model-1 — 18",
+      "caption": ""
+    }
+  ]
+}

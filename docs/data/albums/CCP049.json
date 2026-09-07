@@ -1,0 +1,165 @@
+{
+  "title": "Shinoda's Garalley",
+  "photos": [
+    {
+      "src": "assets/photos/img3083.jpg",
+      "thumb": "assets/thumbs/img3083.jpg",
+      "width": 560,
+      "height": 746,
+      "alt": "01カワセミ止まり木",
+      "caption": "01カワセミ止まり木\nメーカー名：NIKON CORPORATION\n機種名：NIKON D3\nISO感度：1250\n絞り：\nシャッター速度："
+    },
+    {
+      "src": "assets/photos/img3086.jpg",
+      "thumb": "assets/thumbs/img3086.jpg",
+      "width": 1200,
+      "height": 798,
+      "alt": "02-01上高地田代湿原",
+      "caption": "02-01上高地田代湿原\nメーカー名：NIKON CORPORATION\n機種名：NIKON D3\nISO感度：200\n絞り：\nシャッター速度："
+    },
+    {
+      "src": "assets/photos/img3089.jpg",
+      "thumb": "assets/thumbs/img3089.jpg",
+      "width": 1024,
+      "height": 768,
+      "alt": "02-02上高地子ガモ達",
+      "caption": "02-02上高地子ガモ達\nメーカー名：OLYMPUS OPTICAL CO.,LTD\n機種名：C3030Z\nISO感度：100\n絞り：\nシャッター速度："
+    },
+    {
+      "src": "assets/photos/img3092.jpg",
+      "thumb": "assets/thumbs/img3092.jpg",
+      "width": 1024,
+      "height": 768,
+      "alt": "02-03上高地小ガモ",
+      "caption": "02-03上高地小ガモ\nメーカー名：OLYMPUS OPTICAL CO.,LTD\n機種名：C3030Z\nISO感度：100\n絞り：\nシャッター速度："
+    },
+    {
+      "src": "assets/photos/img3095.jpg",
+      "thumb": "assets/thumbs/img3095.jpg",
+      "width": 1200,
+      "height": 798,
+      "alt": "03-01四日市1",
+      "caption": "03-01四日市1\nメーカー名：NIKON CORPORATION\n機種名：NIKON D3\nISO感度：200\n絞り：\nシャッター速度："
+    },
+    {
+      "src": "assets/photos/img3098.jpg",
+      "thumb": "assets/thumbs/img3098.jpg",
+      "width": 798,
+      "height": 1200,
+      "alt": "03-02四日市",
+      "caption": "03-02四日市\nメーカー名：NIKON CORPORATION\n機種名：NIKON D3\nISO感度：200\n絞り：\nシャッター速度："
+    },
+    {
+      "src": "assets/photos/img3101.jpg",
+      "thumb": "assets/thumbs/img3101.jpg",
+      "width": 1195,
+      "height": 800,
+      "alt": "04-01白馬岳",
+      "caption": "04-01白馬岳\nメーカー名：NIKON CORPORATION\n機種名：NIKON D80\nISO感度：100\n絞り：\nシャッター速度："
+    },
+    {
+      "src": "assets/photos/img3104.jpg",
+      "thumb": "assets/thumbs/img3104.jpg",
+      "width": 1195,
+      "height": 800,
+      "alt": "04-02白馬岳雷鳥",
+      "caption": "04-02白馬岳雷鳥\nメーカー名：NIKON CORPORATION\n機種名：NIKON D80\nISO感度：100\n絞り：\nシャッター速度："
+    },
+    {
+      "src": "assets/photos/img3107.jpg",
+      "thumb": "assets/thumbs/img3107.jpg",
+      "width": 1195,
+      "height": 800,
+      "alt": "04-03白馬三山",
+      "caption": "04-03白馬三山\nメーカー名：NIKON CORPORATION\n機種名：NIKON D80\nISO感度：100\n絞り：\nシャッター速度："
+    },
+    {
+      "src": "assets/photos/img3110.jpg",
+      "thumb": "assets/thumbs/img3110.jpg",
+      "width": 1200,
+      "height": 798,
+      "alt": "05-01霧が峰",
+      "caption": "05-01霧が峰\nメーカー名：NIKON CORPORATION\n機種名：NIKON D3\nISO感度：200\n絞り：\nシャッター速度："
+    },
+    {
+      "src": "assets/photos/img3113.jpg",
+      "thumb": "assets/thumbs/img3113.jpg",
+      "width": 1200,
+      "height": 798,
+      "alt": "05-02霧が峰",
+      "caption": "05-02霧が峰\nメーカー名：NIKON CORPORATION\n機種名：NIKON D3\nISO感度：200\n絞り：\nシャッター速度："
+    },
+    {
+      "src": "assets/photos/img3116.jpg",
+      "thumb": "assets/thumbs/img3116.jpg",
+      "width": 1200,
+      "height": 798,
+      "alt": "05-03霧が峰",
+      "caption": "05-03霧が峰\nメーカー名：NIKON CORPORATION\n機種名：NIKON D3\nISO感度：200\n絞り：\nシャッター速度："
+    },
+    {
+      "src": "assets/photos/img3119.jpg",
+      "thumb": "assets/thumbs/img3119.jpg",
+      "width": 1200,
+      "height": 798,
+      "alt": "06-01御岳山日の出",
+      "caption": "06-01御岳山日の出\nメーカー名：NIKON CORPORATION\n機種名：NIKON D3\nISO感度：200\n絞り：\nシャッター速度："
+    },
+    {
+      "src": "assets/photos/img3122.jpg",
+      "thumb": "assets/thumbs/img3122.jpg",
+      "width": 1200,
+      "height": 798,
+      "alt": "06-02御岳山日の出",
+      "caption": "06-02御岳山日の出\nメーカー名：NIKON CORPORATION\n機種名：NIKON D3\nISO感度：200\n絞り：\nシャッター速度："
+    },
+    {
+      "src": "assets/photos/img3125.jpg",
+      "thumb": "assets/thumbs/img3125.jpg",
+      "width": 1195,
+      "height": 800,
+      "alt": "07-01涸沢山並",
+      "caption": "07-01涸沢山並\nメーカー名：NIKON CORPORATION\n機種名：NIKON D80\nISO感度：100\n絞り：\nシャッター速度："
+    },
+    {
+      "src": "assets/photos/img2233.jpg",
+      "thumb": "assets/thumbs/img2233.jpg",
+      "width": 800,
+      "height": 1195,
+      "alt": "07-02涸沢テント",
+      "caption": "07-02涸沢テント\nメーカー名：NIKON CORPORATION\n機種名：NIKON D80\nISO感度：100\n絞り：\nシャッター速度："
+    },
+    {
+      "src": "assets/photos/img3131.jpg",
+      "thumb": "assets/thumbs/img3131.jpg",
+      "width": 800,
+      "height": 1195,
+      "alt": "07-03涸沢白樺",
+      "caption": "07-03涸沢白樺\nメーカー名：NIKON CORPORATION\n機種名：NIKON D80\nISO感度：100\n絞り：\nシャッター速度："
+    },
+    {
+      "src": "assets/photos/img1901.jpg",
+      "thumb": "assets/thumbs/img1901.jpg",
+      "width": 1195,
+      "height": 800,
+      "alt": "07-04涸沢槍ヶ岳",
+      "caption": "07-04涸沢槍ヶ岳\nメーカー名：NIKON CORPORATION\n機種名：NIKON D80\nISO感度：100\n絞り：\nシャッター速度："
+    },
+    {
+      "src": "assets/photos/img3137.jpg",
+      "thumb": "assets/thumbs/img3137.jpg",
+      "width": 1200,
+      "height": 798,
+      "alt": "08-01徳川園",
+      "caption": "08-01徳川園\nメーカー名：NIKON CORPORATION\n機種名：NIKON D3\nISO感度：200\n絞り：\nシャッター速度："
+    },
+    {
+      "src": "assets/photos/img3140.jpg",
+      "thumb": "assets/thumbs/img3140.jpg",
+      "width": 1200,
+      "height": 798,
+      "alt": "08-02徳川園",
+      "caption": "08-02徳川園\nメーカー名：NIKON CORPORATION\n機種名：NIKON D3\nISO感度：200\n絞り：\nシャッター速度："
+    }
+  ]
+}

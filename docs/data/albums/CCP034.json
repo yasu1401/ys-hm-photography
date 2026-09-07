@@ -1,0 +1,301 @@
+{
+  "title": "Taku's Garalley",
+  "photos": [
+    {
+      "src": "assets/photos/img2972.jpg",
+      "thumb": "assets/thumbs/img2972.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "デジタル一眼_01",
+      "caption": "デジタル一眼_01"
+    },
+    {
+      "src": "assets/photos/img2975.jpg",
+      "thumb": "assets/thumbs/img2975.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "デジタル一眼_02",
+      "caption": "デジタル一眼_02"
+    },
+    {
+      "src": "assets/photos/img2978.jpg",
+      "thumb": "assets/thumbs/img2978.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "デジタル一眼_03",
+      "caption": "デジタル一眼_03"
+    },
+    {
+      "src": "assets/photos/img2981.jpg",
+      "thumb": "assets/thumbs/img2981.jpg",
+      "width": 800,
+      "height": 1200,
+      "alt": "デジタル一眼_04",
+      "caption": "デジタル一眼_04"
+    },
+    {
+      "src": "assets/photos/img2984.jpg",
+      "thumb": "assets/thumbs/img2984.jpg",
+      "width": 800,
+      "height": 1200,
+      "alt": "デジタル一眼_05",
+      "caption": "デジタル一眼_05"
+    },
+    {
+      "src": "assets/photos/img2987.jpg",
+      "thumb": "assets/thumbs/img2987.jpg",
+      "width": 1138,
+      "height": 800,
+      "alt": "デジタル一眼_06",
+      "caption": "デジタル一眼_06"
+    },
+    {
+      "src": "assets/photos/img2990.jpg",
+      "thumb": "assets/thumbs/img2990.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "デジタル一眼_07",
+      "caption": "デジタル一眼_07"
+    },
+    {
+      "src": "assets/photos/img2993.jpg",
+      "thumb": "assets/thumbs/img2993.jpg",
+      "width": 800,
+      "height": 1200,
+      "alt": "デジタル一眼_08",
+      "caption": "デジタル一眼_08"
+    },
+    {
+      "src": "assets/photos/img2996.jpg",
+      "thumb": "assets/thumbs/img2996.jpg",
+      "width": 800,
+      "height": 1118,
+      "alt": "デジタル一眼_09",
+      "caption": "デジタル一眼_09"
+    },
+    {
+      "src": "assets/photos/img2999.jpg",
+      "thumb": "assets/thumbs/img2999.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "デジタル一眼_10",
+      "caption": "デジタル一眼_10"
+    },
+    {
+      "src": "assets/photos/img3002.jpg",
+      "thumb": "assets/thumbs/img3002.jpg",
+      "width": 800,
+      "height": 1200,
+      "alt": "デジタル一眼_11",
+      "caption": "デジタル一眼_11"
+    },
+    {
+      "src": "assets/photos/img3005.jpg",
+      "thumb": "assets/thumbs/img3005.jpg",
+      "width": 800,
+      "height": 1200,
+      "alt": "デジタル一眼_12",
+      "caption": "デジタル一眼_12"
+    },
+    {
+      "src": "assets/photos/img3008.jpg",
+      "thumb": "assets/thumbs/img3008.jpg",
+      "width": 800,
+      "height": 1200,
+      "alt": "デジタル一眼_13",
+      "caption": "デジタル一眼_13"
+    },
+    {
+      "src": "assets/photos/img3011.jpg",
+      "thumb": "assets/thumbs/img3011.jpg",
+      "width": 800,
+      "height": 1200,
+      "alt": "デジタル一眼_14",
+      "caption": "デジタル一眼_14"
+    },
+    {
+      "src": "assets/photos/img3014.jpg",
+      "thumb": "assets/thumbs/img3014.jpg",
+      "width": 800,
+      "height": 1200,
+      "alt": "デジタル一眼_15",
+      "caption": "デジタル一眼_15"
+    },
+    {
+      "src": "assets/photos/img3017.jpg",
+      "thumb": "assets/thumbs/img3017.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "デジタル一眼_16",
+      "caption": "デジタル一眼_16"
+    },
+    {
+      "src": "assets/photos/img3020.jpg",
+      "thumb": "assets/thumbs/img3020.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "デジタル一眼_17",
+      "caption": "デジタル一眼_17"
+    },
+    {
+      "src": "assets/photos/img3023.jpg",
+      "thumb": "assets/thumbs/img3023.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "デジタル一眼_18",
+      "caption": "デジタル一眼_18"
+    },
+    {
+      "src": "assets/photos/img3026.jpg",
+      "thumb": "assets/thumbs/img3026.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "デジタル一眼_19",
+      "caption": "デジタル一眼_19"
+    },
+    {
+      "src": "assets/photos/img3029.jpg",
+      "thumb": "assets/thumbs/img3029.jpg",
+      "width": 800,
+      "height": 1200,
+      "alt": "デジタル一眼_20",
+      "caption": "デジタル一眼_20"
+    },
+    {
+      "src": "assets/photos/img3032.jpg",
+      "thumb": "assets/thumbs/img3032.jpg",
+      "width": 800,
+      "height": 1200,
+      "alt": "デジタル一眼_21",
+      "caption": "デジタル一眼_21"
+    },
+    {
+      "src": "assets/photos/img3035.jpg",
+      "thumb": "assets/thumbs/img3035.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "デジタル一眼_22",
+      "caption": "デジタル一眼_22"
+    },
+    {
+      "src": "assets/photos/img3038.jpg",
+      "thumb": "assets/thumbs/img3038.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "デジタル一眼_23",
+      "caption": "デジタル一眼_23"
+    },
+    {
+      "src": "assets/photos/img3041.jpg",
+      "thumb": "assets/thumbs/img3041.jpg",
+      "width": 800,
+      "height": 1200,
+      "alt": "デジタル一眼_24",
+      "caption": "デジタル一眼_24"
+    },
+    {
+      "src": "assets/photos/img3044.jpg",
+      "thumb": "assets/thumbs/img3044.jpg",
+      "width": 800,
+      "height": 1200,
+      "alt": "デジタル一眼_25",
+      "caption": "デジタル一眼_25"
+    },
+    {
+      "src": "assets/photos/img3047.jpg",
+      "thumb": "assets/thumbs/img3047.jpg",
+      "width": 811,
+      "height": 800,
+      "alt": "トイ_カメラ_01",
+      "caption": "トイ_カメラ_01"
+    },
+    {
+      "src": "assets/photos/img3050.jpg",
+      "thumb": "assets/thumbs/img3050.jpg",
+      "width": 800,
+      "height": 810,
+      "alt": "トイ_カメラ_02",
+      "caption": "トイ_カメラ_02"
+    },
+    {
+      "src": "assets/photos/img3053.jpg",
+      "thumb": "assets/thumbs/img3053.jpg",
+      "width": 800,
+      "height": 810,
+      "alt": "トイ_カメラ_03",
+      "caption": "トイ_カメラ_03"
+    },
+    {
+      "src": "assets/photos/img3056.jpg",
+      "thumb": "assets/thumbs/img3056.jpg",
+      "width": 805,
+      "height": 800,
+      "alt": "トイ_カメラ_04",
+      "caption": "トイ_カメラ_04"
+    },
+    {
+      "src": "assets/photos/img3059.jpg",
+      "thumb": "assets/thumbs/img3059.jpg",
+      "width": 800,
+      "height": 810,
+      "alt": "トイ_カメラ_05",
+      "caption": "トイ_カメラ_05"
+    },
+    {
+      "src": "assets/photos/img3062.jpg",
+      "thumb": "assets/thumbs/img3062.jpg",
+      "width": 800,
+      "height": 805,
+      "alt": "トイ_カメラ_06",
+      "caption": "トイ_カメラ_06"
+    },
+    {
+      "src": "assets/photos/img3065.jpg",
+      "thumb": "assets/thumbs/img3065.jpg",
+      "width": 800,
+      "height": 801,
+      "alt": "トイ_カメラ_07",
+      "caption": "トイ_カメラ_07"
+    },
+    {
+      "src": "assets/photos/img3068.jpg",
+      "thumb": "assets/thumbs/img3068.jpg",
+      "width": 800,
+      "height": 1146,
+      "alt": "フィルム一眼_01",
+      "caption": "フィルム一眼_01"
+    },
+    {
+      "src": "assets/photos/img3071.jpg",
+      "thumb": "assets/thumbs/img3071.jpg",
+      "width": 800,
+      "height": 1183,
+      "alt": "フィルム一眼_02",
+      "caption": "フィルム一眼_02"
+    },
+    {
+      "src": "assets/photos/img3074.jpg",
+      "thumb": "assets/thumbs/img3074.jpg",
+      "width": 800,
+      "height": 1193,
+      "alt": "フィルム一眼_03",
+      "caption": "フィルム一眼_03"
+    },
+    {
+      "src": "assets/photos/img3077.jpg",
+      "thumb": "assets/thumbs/img3077.jpg",
+      "width": 800,
+      "height": 1167,
+      "alt": "フィルム一眼_04",
+      "caption": "フィルム一眼_04"
+    },
+    {
+      "src": "assets/photos/img3080.jpg",
+      "thumb": "assets/thumbs/img3080.jpg",
+      "width": 800,
+      "height": 1157,
+      "alt": "フィルム一眼_05",
+      "caption": "フィルム一眼_05"
+    }
+  ]
+}

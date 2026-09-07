@@ -1,0 +1,245 @@
+{
+  "title": "KASH",
+  "photos": [
+    {
+      "src": "assets/photos/img1911.jpg",
+      "thumb": "assets/thumbs/img1911.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "KASH — 1",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img1914.jpg",
+      "thumb": "assets/thumbs/img1914.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "KASH — 2",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img1917.jpg",
+      "thumb": "assets/thumbs/img1917.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "KASH — 3",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img1920.jpg",
+      "thumb": "assets/thumbs/img1920.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "KASH — 4",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img1923.jpg",
+      "thumb": "assets/thumbs/img1923.jpg",
+      "width": 800,
+      "height": 1200,
+      "alt": "KASH — 5",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img1926.jpg",
+      "thumb": "assets/thumbs/img1926.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "KASH — 6",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img1929.jpg",
+      "thumb": "assets/thumbs/img1929.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "KASH — 7",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img1932.jpg",
+      "thumb": "assets/thumbs/img1932.jpg",
+      "width": 800,
+      "height": 1200,
+      "alt": "KASH — 8",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img1935.jpg",
+      "thumb": "assets/thumbs/img1935.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "KASH — 9",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img1938.jpg",
+      "thumb": "assets/thumbs/img1938.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "KASH — 10",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img1941.jpg",
+      "thumb": "assets/thumbs/img1941.jpg",
+      "width": 800,
+      "height": 1200,
+      "alt": "KASH — 11",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img1944.jpg",
+      "thumb": "assets/thumbs/img1944.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "KASH — 12",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img1947.jpg",
+      "thumb": "assets/thumbs/img1947.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "KASH — 13",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img1950.jpg",
+      "thumb": "assets/thumbs/img1950.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "KASH — 14",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img1953.jpg",
+      "thumb": "assets/thumbs/img1953.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "KASH — 15",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img1956.jpg",
+      "thumb": "assets/thumbs/img1956.jpg",
+      "width": 800,
+      "height": 1200,
+      "alt": "KASH — 16",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img1959.jpg",
+      "thumb": "assets/thumbs/img1959.jpg",
+      "width": 800,
+      "height": 1200,
+      "alt": "KASH — 17",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img1962.jpg",
+      "thumb": "assets/thumbs/img1962.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "KASH — 18",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img1965.jpg",
+      "thumb": "assets/thumbs/img1965.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "KASH — 19",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img1968.jpg",
+      "thumb": "assets/thumbs/img1968.jpg",
+      "width": 800,
+      "height": 1200,
+      "alt": "KASH — 20",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img1971.jpg",
+      "thumb": "assets/thumbs/img1971.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "KASH — 21",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img1974.jpg",
+      "thumb": "assets/thumbs/img1974.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "KASH — 22",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img1977.jpg",
+      "thumb": "assets/thumbs/img1977.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "KASH — 23",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img1980.jpg",
+      "thumb": "assets/thumbs/img1980.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "KASH — 24",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img1983.jpg",
+      "thumb": "assets/thumbs/img1983.jpg",
+      "width": 800,
+      "height": 1200,
+      "alt": "KASH — 25",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img2351.jpg",
+      "thumb": "assets/thumbs/img2351.jpg",
+      "width": 800,
+      "height": 1200,
+      "alt": "KASH — 26",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img1989.jpg",
+      "thumb": "assets/thumbs/img1989.jpg",
+      "width": 800,
+      "height": 1200,
+      "alt": "KASH — 27",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img1992.jpg",
+      "thumb": "assets/thumbs/img1992.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "KASH — 28",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img2348.jpg",
+      "thumb": "assets/thumbs/img2348.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "KASH — 29",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img1998.jpg",
+      "thumb": "assets/thumbs/img1998.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "KASH — 30",
+      "caption": ""
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+migration/original/
+__pycache__/
+.DS_Store
+.env*
+*.RAW
+*.raw
+*.CR2
+*.CR3
+*.NEF
+*.ARW
+*.DNG
+*.tif
+*.tiff
+node_modules/

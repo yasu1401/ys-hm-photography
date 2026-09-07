@@ -1,0 +1,325 @@
+{
+  "title": "撮影会",
+  "photos": [
+    {
+      "src": "assets/photos/img1543.jpg",
+      "thumb": "assets/thumbs/img1543.jpg",
+      "width": 800,
+      "height": 1200,
+      "alt": "撮影会 — 1",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img1519.jpg",
+      "thumb": "assets/thumbs/img1519.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "撮影会 — 2",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img1525.jpg",
+      "thumb": "assets/thumbs/img1525.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "撮影会 — 3",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img2270.jpg",
+      "thumb": "assets/thumbs/img2270.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "撮影会 — 4",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img1534.jpg",
+      "thumb": "assets/thumbs/img1534.jpg",
+      "width": 800,
+      "height": 1200,
+      "alt": "撮影会 — 5",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img1540.jpg",
+      "thumb": "assets/thumbs/img1540.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "撮影会 — 6",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img2277.jpg",
+      "thumb": "assets/thumbs/img2277.jpg",
+      "width": 800,
+      "height": 1200,
+      "alt": "撮影会 — 7",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img1594.jpg",
+      "thumb": "assets/thumbs/img1594.jpg",
+      "width": 800,
+      "height": 1200,
+      "alt": "撮影会 — 8",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img3657.jpg",
+      "thumb": "assets/thumbs/img3657.jpg",
+      "width": 800,
+      "height": 1200,
+      "alt": "撮影会 — 9",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img3669.jpg",
+      "thumb": "assets/thumbs/img3669.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "撮影会 — 10",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img1513.jpg",
+      "thumb": "assets/thumbs/img1513.jpg",
+      "width": 800,
+      "height": 1200,
+      "alt": "撮影会 — 11",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img2288.jpg",
+      "thumb": "assets/thumbs/img2288.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "撮影会 — 12",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img1522.jpg",
+      "thumb": "assets/thumbs/img1522.jpg",
+      "width": 800,
+      "height": 1200,
+      "alt": "撮影会 — 13",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img1531.jpg",
+      "thumb": "assets/thumbs/img1531.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "撮影会 — 14",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img1558.jpg",
+      "thumb": "assets/thumbs/img1558.jpg",
+      "width": 800,
+      "height": 1200,
+      "alt": "撮影会 — 15",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img1537.jpg",
+      "thumb": "assets/thumbs/img1537.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "撮影会 — 16",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img1546.jpg",
+      "thumb": "assets/thumbs/img1546.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "撮影会 — 17",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img2301.jpg",
+      "thumb": "assets/thumbs/img2301.jpg",
+      "width": 800,
+      "height": 1200,
+      "alt": "撮影会 — 18",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img3597.jpg",
+      "thumb": "assets/thumbs/img3597.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "撮影会 — 19",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img1567.jpg",
+      "thumb": "assets/thumbs/img1567.jpg",
+      "width": 800,
+      "height": 1200,
+      "alt": "撮影会 — 20",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img1552.jpg",
+      "thumb": "assets/thumbs/img1552.jpg",
+      "width": 938,
+      "height": 800,
+      "alt": "撮影会 — 21",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img1576.jpg",
+      "thumb": "assets/thumbs/img1576.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "撮影会 — 22",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img1582.jpg",
+      "thumb": "assets/thumbs/img1582.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "撮影会 — 23",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img1585.jpg",
+      "thumb": "assets/thumbs/img1585.jpg",
+      "width": 800,
+      "height": 1200,
+      "alt": "撮影会 — 24",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img1588.jpg",
+      "thumb": "assets/thumbs/img1588.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "撮影会 — 25",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img1591.jpg",
+      "thumb": "assets/thumbs/img1591.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "撮影会 — 26",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img3265.jpg",
+      "thumb": "assets/thumbs/img3265.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "撮影会 — 27",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img3603.jpg",
+      "thumb": "assets/thumbs/img3603.jpg",
+      "width": 800,
+      "height": 1200,
+      "alt": "撮影会 — 28",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img3606.jpg",
+      "thumb": "assets/thumbs/img3606.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "撮影会 — 29",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img3651.jpg",
+      "thumb": "assets/thumbs/img3651.jpg",
+      "width": 800,
+      "height": 1200,
+      "alt": "撮影会 — 30",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img3654.jpg",
+      "thumb": "assets/thumbs/img3654.jpg",
+      "width": 800,
+      "height": 1200,
+      "alt": "撮影会 — 31",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img3663.jpg",
+      "thumb": "assets/thumbs/img3663.jpg",
+      "width": 800,
+      "height": 1200,
+      "alt": "撮影会 — 32",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img3666.jpg",
+      "thumb": "assets/thumbs/img3666.jpg",
+      "width": 800,
+      "height": 1200,
+      "alt": "撮影会 — 33",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img1561.jpg",
+      "thumb": "assets/thumbs/img1561.jpg",
+      "width": 800,
+      "height": 1200,
+      "alt": "撮影会 — 34",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img1570.jpg",
+      "thumb": "assets/thumbs/img1570.jpg",
+      "width": 800,
+      "height": 1200,
+      "alt": "撮影会 — 35",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img2338.jpg",
+      "thumb": "assets/thumbs/img2338.jpg",
+      "width": 800,
+      "height": 1200,
+      "alt": "撮影会 — 36",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img1579.jpg",
+      "thumb": "assets/thumbs/img1579.jpg",
+      "width": 800,
+      "height": 1200,
+      "alt": "撮影会 — 37",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img3600.jpg",
+      "thumb": "assets/thumbs/img3600.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "撮影会 — 38",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img2345.jpg",
+      "thumb": "assets/thumbs/img2345.jpg",
+      "width": 800,
+      "height": 1200,
+      "alt": "撮影会 — 39",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img3672.jpg",
+      "thumb": "assets/thumbs/img3672.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "撮影会 — 40",
+      "caption": ""
+    }
+  ]
+}
