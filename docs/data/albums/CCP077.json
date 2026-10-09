@@ -4,137 +4,345 @@
     {
       "src": "assets/photos/yamagata-01.jpg",
       "thumb": "assets/thumbs/yamagata-01.jpg",
-      "width": 1200,
-      "height": 800,
-      "alt": "銀山温泉 — 1",
+      "width": 1400,
+      "height": 933,
+      "alt": "山形県 — 1",
       "caption": ""
     },
     {
       "src": "assets/photos/yamagata-02.jpg",
       "thumb": "assets/thumbs/yamagata-02.jpg",
-      "width": 1200,
-      "height": 800,
-      "alt": "銀山温泉 — 2",
+      "width": 1400,
+      "height": 933,
+      "alt": "山形県 — 2",
       "caption": ""
     },
     {
       "src": "assets/photos/yamagata-03.jpg",
       "thumb": "assets/thumbs/yamagata-03.jpg",
-      "width": 1200,
-      "height": 800,
-      "alt": "銀山温泉 — 3",
+      "width": 1400,
+      "height": 933,
+      "alt": "山形県 — 3",
       "caption": ""
     },
     {
       "src": "assets/photos/yamagata-04.jpg",
       "thumb": "assets/thumbs/yamagata-04.jpg",
-      "width": 800,
-      "height": 1200,
-      "alt": "銀山温泉 — 4",
+      "width": 933,
+      "height": 1400,
+      "alt": "山形県 — 4",
       "caption": ""
     },
     {
       "src": "assets/photos/yamagata-05.jpg",
       "thumb": "assets/thumbs/yamagata-05.jpg",
-      "width": 1200,
-      "height": 800,
-      "alt": "銀山温泉 — 5",
+      "width": 933,
+      "height": 1400,
+      "alt": "山形県 — 5",
       "caption": ""
     },
     {
       "src": "assets/photos/yamagata-06.jpg",
       "thumb": "assets/thumbs/yamagata-06.jpg",
-      "width": 1200,
-      "height": 800,
-      "alt": "銀山温泉 — 6",
+      "width": 933,
+      "height": 1400,
+      "alt": "山形県 — 6",
       "caption": ""
     },
     {
       "src": "assets/photos/yamagata-07.jpg",
       "thumb": "assets/thumbs/yamagata-07.jpg",
-      "width": 1200,
-      "height": 800,
-      "alt": "銀山温泉 — 7",
+      "width": 1400,
+      "height": 933,
+      "alt": "山形県 — 7",
       "caption": ""
     },
     {
       "src": "assets/photos/yamagata-08.jpg",
       "thumb": "assets/thumbs/yamagata-08.jpg",
-      "width": 1200,
-      "height": 800,
-      "alt": "山寺 — 1",
+      "width": 1400,
+      "height": 933,
+      "alt": "山形県 — 8",
       "caption": ""
     },
     {
       "src": "assets/photos/yamagata-09.jpg",
       "thumb": "assets/thumbs/yamagata-09.jpg",
-      "width": 1200,
-      "height": 801,
-      "alt": "山寺 — 2",
+      "width": 1400,
+      "height": 933,
+      "alt": "山形県 — 9",
       "caption": ""
     },
     {
       "src": "assets/photos/yamagata-10.jpg",
       "thumb": "assets/thumbs/yamagata-10.jpg",
-      "width": 1200,
-      "height": 800,
-      "alt": "山寺 — 3",
+      "width": 1400,
+      "height": 933,
+      "alt": "山形県 — 10",
       "caption": ""
     },
     {
       "src": "assets/photos/yamagata-11.jpg",
       "thumb": "assets/thumbs/yamagata-11.jpg",
-      "width": 801,
-      "height": 1200,
-      "alt": "山寺 — 4",
+      "width": 1400,
+      "height": 933,
+      "alt": "山形県 — 11",
       "caption": ""
     },
     {
       "src": "assets/photos/yamagata-12.jpg",
       "thumb": "assets/thumbs/yamagata-12.jpg",
-      "width": 800,
-      "height": 1200,
-      "alt": "山寺 — 5",
+      "width": 1400,
+      "height": 933,
+      "alt": "山形県 — 12",
       "caption": ""
     },
     {
       "src": "assets/photos/yamagata-13.jpg",
       "thumb": "assets/thumbs/yamagata-13.jpg",
-      "width": 1200,
-      "height": 800,
-      "alt": "蔵王 — 1",
+      "width": 1400,
+      "height": 933,
+      "alt": "山形県 — 13",
       "caption": ""
     },
     {
       "src": "assets/photos/yamagata-14.jpg",
       "thumb": "assets/thumbs/yamagata-14.jpg",
-      "width": 1200,
-      "height": 800,
-      "alt": "蔵王 — 2",
+      "width": 1400,
+      "height": 933,
+      "alt": "山形県 — 14",
       "caption": ""
     },
     {
       "src": "assets/photos/yamagata-15.jpg",
       "thumb": "assets/thumbs/yamagata-15.jpg",
-      "width": 1200,
-      "height": 800,
-      "alt": "蔵王 — 3",
+      "width": 933,
+      "height": 1400,
+      "alt": "山形県 — 15",
       "caption": ""
     },
     {
       "src": "assets/photos/yamagata-16.jpg",
       "thumb": "assets/thumbs/yamagata-16.jpg",
-      "width": 1200,
-      "height": 800,
-      "alt": "蔵王 — 4",
+      "width": 1400,
+      "height": 933,
+      "alt": "山形県 — 16",
       "caption": ""
     },
     {
       "src": "assets/photos/yamagata-17.jpg",
       "thumb": "assets/thumbs/yamagata-17.jpg",
+      "width": 1347,
+      "height": 1000,
+      "alt": "山形県 — 17",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/yamagata-18.jpg",
+      "thumb": "assets/thumbs/yamagata-18.jpg",
+      "width": 1400,
+      "height": 861,
+      "alt": "山形県 — 18",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/yamagata-19.jpg",
+      "thumb": "assets/thumbs/yamagata-19.jpg",
+      "width": 1400,
+      "height": 933,
+      "alt": "山形県 — 19",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/yamagata-20.jpg",
+      "thumb": "assets/thumbs/yamagata-20.jpg",
+      "width": 1400,
+      "height": 933,
+      "alt": "山形県 — 20",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/yamagata-21.jpg",
+      "thumb": "assets/thumbs/yamagata-21.jpg",
+      "width": 1400,
+      "height": 933,
+      "alt": "山形県 — 21",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/yamagata-22.jpg",
+      "thumb": "assets/thumbs/yamagata-22.jpg",
+      "width": 1400,
+      "height": 933,
+      "alt": "山形県 — 22",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/yamagata-23.jpg",
+      "thumb": "assets/thumbs/yamagata-23.jpg",
+      "width": 933,
+      "height": 1400,
+      "alt": "山形県 — 23",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/yamagata-24.jpg",
+      "thumb": "assets/thumbs/yamagata-24.jpg",
+      "width": 1400,
+      "height": 933,
+      "alt": "山形県 — 24",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/yamagata-25.jpg",
+      "thumb": "assets/thumbs/yamagata-25.jpg",
+      "width": 1400,
+      "height": 933,
+      "alt": "山形県 — 25",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/yamagata-26.jpg",
+      "thumb": "assets/thumbs/yamagata-26.jpg",
+      "width": 933,
+      "height": 1400,
+      "alt": "山形県 — 26",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/yamagata-27.jpg",
+      "thumb": "assets/thumbs/yamagata-27.jpg",
+      "width": 1400,
+      "height": 933,
+      "alt": "山形県 — 27",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/yamagata-28.jpg",
+      "thumb": "assets/thumbs/yamagata-28.jpg",
+      "width": 1400,
+      "height": 933,
+      "alt": "山形県 — 28",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/yamagata-29.jpg",
+      "thumb": "assets/thumbs/yamagata-29.jpg",
+      "width": 1400,
+      "height": 933,
+      "alt": "山形県 — 29",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/yamagata-30.jpg",
+      "thumb": "assets/thumbs/yamagata-30.jpg",
+      "width": 933,
+      "height": 1400,
+      "alt": "山形県 — 30",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/yamagata-31.jpg",
+      "thumb": "assets/thumbs/yamagata-31.jpg",
+      "width": 1400,
+      "height": 721,
+      "alt": "山形県 — 31",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/yamagata-32.jpg",
+      "thumb": "assets/thumbs/yamagata-32.jpg",
+      "width": 1400,
+      "height": 933,
+      "alt": "山形県 — 32",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/yamagata-33.jpg",
+      "thumb": "assets/thumbs/yamagata-33.jpg",
+      "width": 933,
+      "height": 1400,
+      "alt": "山形県 — 33",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/yamagata-34.jpg",
+      "thumb": "assets/thumbs/yamagata-34.jpg",
+      "width": 1400,
+      "height": 933,
+      "alt": "山形県 — 34",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/yamagata-35.jpg",
+      "thumb": "assets/thumbs/yamagata-35.jpg",
+      "width": 933,
+      "height": 1400,
+      "alt": "山形県 — 35",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/yamagata-36.jpg",
+      "thumb": "assets/thumbs/yamagata-36.jpg",
+      "width": 933,
+      "height": 1400,
+      "alt": "山形県 — 36",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/yamagata-37.jpg",
+      "thumb": "assets/thumbs/yamagata-37.jpg",
+      "width": 933,
+      "height": 1400,
+      "alt": "山形県 — 37",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/yamagata-38.jpg",
+      "thumb": "assets/thumbs/yamagata-38.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "山形県 — 38",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/yamagata-39.jpg",
+      "thumb": "assets/thumbs/yamagata-39.jpg",
       "width": 800,
       "height": 1200,
-      "alt": "蔵王 — 5",
+      "alt": "山形県 — 39",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/yamagata-40.jpg",
+      "thumb": "assets/thumbs/yamagata-40.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "山形県 — 40",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/yamagata-41.jpg",
+      "thumb": "assets/thumbs/yamagata-41.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "山形県 — 41",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/yamagata-42.jpg",
+      "thumb": "assets/thumbs/yamagata-42.jpg",
+      "width": 800,
+      "height": 1200,
+      "alt": "山形県 — 42",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/yamagata-43.jpg",
+      "thumb": "assets/thumbs/yamagata-43.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "山形県 — 43",
       "caption": ""
     }
   ]
