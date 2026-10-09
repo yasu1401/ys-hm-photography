@@ -1,6 +1,8 @@
 {
   "title": "Y's HM Photography",
   "tagline": "heartwarming photo　心あたたまる写真",
+  "galleryLabel": "Personal Photo Gallery",
+  "searchNotice": "このサイトは、検索エンジンに掲載しない設定にしています。",
   "slideshowSeconds": 6,
   "slides": [
     {
