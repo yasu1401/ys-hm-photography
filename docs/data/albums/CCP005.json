@@ -1,12 +1,12 @@
 {
-  "title": "Potrait",
+  "title": "Portrait",
   "photos": [
     {
       "src": "assets/photos/img3672.jpg",
       "thumb": "assets/thumbs/img3672.jpg",
       "width": 1200,
       "height": 800,
-      "alt": "Potrait — 1",
+      "alt": "Portrait — 1",
       "caption": ""
     },
     {
@@ -14,7 +14,7 @@
       "thumb": "assets/thumbs/img1513.jpg",
       "width": 800,
       "height": 1200,
-      "alt": "Potrait — 2",
+      "alt": "Portrait — 2",
       "caption": ""
     },
     {
@@ -22,7 +22,7 @@
       "thumb": "assets/thumbs/img1519.jpg",
       "width": 1200,
       "height": 800,
-      "alt": "Potrait — 3",
+      "alt": "Portrait — 3",
       "caption": ""
     },
     {
@@ -30,7 +30,7 @@
       "thumb": "assets/thumbs/img1525.jpg",
       "width": 1200,
       "height": 800,
-      "alt": "Potrait — 4",
+      "alt": "Portrait — 4",
       "caption": ""
     },
     {
@@ -38,7 +38,7 @@
       "thumb": "assets/thumbs/img1534.jpg",
       "width": 800,
       "height": 1200,
-      "alt": "Potrait — 5",
+      "alt": "Portrait — 5",
       "caption": ""
     },
     {
@@ -46,7 +46,7 @@
       "thumb": "assets/thumbs/img1540.jpg",
       "width": 1200,
       "height": 800,
-      "alt": "Potrait — 6",
+      "alt": "Portrait — 6",
       "caption": ""
     },
     {
@@ -54,7 +54,7 @@
       "thumb": "assets/thumbs/img1543.jpg",
       "width": 800,
       "height": 1200,
-      "alt": "Potrait — 7",
+      "alt": "Portrait — 7",
       "caption": ""
     },
     {
@@ -62,7 +62,7 @@
       "thumb": "assets/thumbs/img1573.jpg",
       "width": 1200,
       "height": 800,
-      "alt": "Potrait — 8",
+      "alt": "Portrait — 8",
       "caption": ""
     },
     {
@@ -70,7 +70,7 @@
       "thumb": "assets/thumbs/img1579.jpg",
       "width": 800,
       "height": 1200,
-      "alt": "Potrait — 9",
+      "alt": "Portrait — 9",
       "caption": ""
     },
     {
@@ -78,7 +78,7 @@
       "thumb": "assets/thumbs/img1423.jpg",
       "width": 800,
       "height": 1200,
-      "alt": "Potrait — 10",
+      "alt": "Portrait — 10",
       "caption": ""
     },
     {
@@ -86,7 +86,7 @@
       "thumb": "assets/thumbs/img804.jpg",
       "width": 800,
       "height": 1200,
-      "alt": "Potrait — 11",
+      "alt": "Portrait — 11",
       "caption": ""
     },
     {
@@ -94,7 +94,7 @@
       "thumb": "assets/thumbs/img1428.jpg",
       "width": 1200,
       "height": 800,
-      "alt": "Potrait — 12",
+      "alt": "Portrait — 12",
       "caption": ""
     },
     {
@@ -102,7 +102,7 @@
       "thumb": "assets/thumbs/img1431.jpg",
       "width": 800,
       "height": 1200,
-      "alt": "Potrait — 13",
+      "alt": "Portrait — 13",
       "caption": ""
     },
     {
@@ -110,7 +110,7 @@
       "thumb": "assets/thumbs/img1434.jpg",
       "width": 800,
       "height": 1200,
-      "alt": "Potrait — 14",
+      "alt": "Portrait — 14",
       "caption": ""
     },
     {
@@ -118,7 +118,7 @@
       "thumb": "assets/thumbs/img1437.jpg",
       "width": 800,
       "height": 1200,
-      "alt": "Potrait — 15",
+      "alt": "Portrait — 15",
       "caption": ""
     },
     {
@@ -126,7 +126,7 @@
       "thumb": "assets/thumbs/img816.jpg",
       "width": 800,
       "height": 1200,
-      "alt": "Potrait — 16",
+      "alt": "Portrait — 16",
       "caption": ""
     },
     {
@@ -134,7 +134,7 @@
       "thumb": "assets/thumbs/img1442.jpg",
       "width": 800,
       "height": 1200,
-      "alt": "Potrait — 17",
+      "alt": "Portrait — 17",
       "caption": ""
     },
     {
@@ -142,7 +142,7 @@
       "thumb": "assets/thumbs/img1445.jpg",
       "width": 800,
       "height": 1200,
-      "alt": "Potrait — 18",
+      "alt": "Portrait — 18",
       "caption": ""
     },
     {
@@ -150,7 +150,7 @@
       "thumb": "assets/thumbs/img1448.jpg",
       "width": 1200,
       "height": 800,
-      "alt": "Potrait — 19",
+      "alt": "Portrait — 19",
       "caption": ""
     },
     {
@@ -158,7 +158,7 @@
       "thumb": "assets/thumbs/img1451.jpg",
       "width": 800,
       "height": 1168,
-      "alt": "Potrait — 20",
+      "alt": "Portrait — 20",
       "caption": ""
     },
     {
@@ -166,7 +166,7 @@
       "thumb": "assets/thumbs/img1454.jpg",
       "width": 1200,
       "height": 800,
-      "alt": "Potrait — 21",
+      "alt": "Portrait — 21",
       "caption": ""
     }
   ]
