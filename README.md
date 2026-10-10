@@ -100,3 +100,15 @@ Gitに慣れている方は、初回は`git init`、`git symbolic-ref HEAD refs/
 GitHub Pagesの公開サイト上限は1GBです。画像を何度も入れ替えるとGitの履歴も増えるので、Web用の軽い画像だけを追加してください。
 
 公式手順：[Pagesサイトの作成](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)、[容量などの制限](https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits)（2026年9月確認）。
+
+
+## アクセス数を確認する
+
+Google Analytics（https://analytics.google.com/）に登録したGoogleアカウントでログインします。
+
+- 「レポート」→「リアルタイム」：直近の訪問状況を確認できます。
+- 「レポート」内の「ページとスクリーン」：ページごとの閲覧数を確認できます。見つからない場合は上部の検索で「ページとスクリーン」を検索します。
+- レポート右上で期間を指定します。通常のレポートは反映に時間がかかる場合があります。
+
+計測は導入後の閲覧から始まります。広告ブロックなどによって集計されない場合があります。自分の公開サイトへのアクセスも含まれます。ローカルプレビューは計測しません。
+計測設定は `docs/assets/analytics.js` にあり、測定IDは `G-WE5TS5SCTP` です。検索結果に掲載しない設定はそのままです。
