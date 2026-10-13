@@ -240,6 +240,38 @@
       "height": 800,
       "alt": "Landscape — 30",
       "caption": ""
+    },
+    {
+      "src": "assets/photos/akame-2025-21.jpg",
+      "thumb": "assets/thumbs/akame-2025-21.jpg",
+      "width": 1400,
+      "height": 933,
+      "alt": "Landscape — 31：紅葉の赤目四十八滝",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/yamagata-18.jpg",
+      "thumb": "assets/thumbs/yamagata-18.jpg",
+      "width": 1400,
+      "height": 861,
+      "alt": "Landscape — 32：銀山温泉の夜景",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/yamagata-40.jpg",
+      "thumb": "assets/thumbs/yamagata-40.jpg",
+      "width": 1200,
+      "height": 800,
+      "alt": "Landscape — 33：蔵王の御釜",
+      "caption": ""
+    },
+    {
+      "src": "assets/photos/img4801.jpg",
+      "thumb": "assets/thumbs/img4801.jpg",
+      "width": 1500,
+      "height": 1000,
+      "alt": "Landscape — 34：野間灯台の夕景",
+      "caption": ""
     }
   ]
 }
