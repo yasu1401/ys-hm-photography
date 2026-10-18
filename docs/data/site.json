@@ -62,14 +62,6 @@
       "caption": "Wedding"
     },
     {
-      "src": "assets/photos/flashgallery002-img007.jpg",
-      "thumb": "assets/thumbs/flashgallery002-img007.jpg",
-      "width": 450,
-      "height": 450,
-      "alt": "Cake",
-      "caption": "Cake"
-    },
-    {
       "src": "assets/photos/flashgallery002-img008.jpg",
       "thumb": "assets/thumbs/flashgallery002-img008.jpg",
       "width": 600,
@@ -110,14 +102,6 @@
       "caption": "Matsuri"
     },
     {
-      "src": "assets/photos/flashgallery002-img013.jpg",
-      "thumb": "assets/thumbs/flashgallery002-img013.jpg",
-      "width": 600,
-      "height": 400,
-      "alt": "Kids",
-      "caption": "Kids"
-    },
-    {
       "src": "assets/photos/flashgallery002-img014.jpg",
       "thumb": "assets/thumbs/flashgallery002-img014.jpg",
       "width": 600,
@@ -140,14 +124,6 @@
       "height": 399,
       "alt": "Model",
       "caption": "Model"
-    },
-    {
-      "src": "assets/photos/flashgallery002-img017.jpg",
-      "thumb": "assets/thumbs/flashgallery002-img017.jpg",
-      "width": 600,
-      "height": 399,
-      "alt": "Beach",
-      "caption": "Beach"
     },
     {
       "src": "assets/photos/flashgallery002-img018.jpg",
